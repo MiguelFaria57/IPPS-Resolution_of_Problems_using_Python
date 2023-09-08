@@ -1,0 +1,3 @@
+manel:"bom dia ze."
+ze:"viva! tudo bem?"
+manel:"tudo e contigo?"

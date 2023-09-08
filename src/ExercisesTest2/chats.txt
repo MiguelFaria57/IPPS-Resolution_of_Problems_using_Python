@@ -1,0 +1,6 @@
+manel,ze,"bom dia ze."
+maria,joao,"oi!"
+ze,manel,"viva! tudo bem?"
+maria,joao,"que fazes?"
+joao,maria,"ola. Estou a fazer teste de iprp!"
+manel,ze,"tudo e contigo?"
